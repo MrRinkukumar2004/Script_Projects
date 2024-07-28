@@ -103,7 +103,7 @@ Run the script with:
 sudo bash service_health_monitoring.sh
 ```
 
-- **Access**: [GitHub Repository](https://github.com/MrRinkukumar2004/Script_Projects/tree/main/03.ServiceHealthMonitoring)
+- **Access**: [GitHub Repository](https://github.com/MrRinkukumar2004/Script_Projects/tree/main/03.ServiceHealthCheckUp)
 - **Social Media**: [Instagram](https://www.instagram.com/motivational_engineer01/) | [LinkedIn](https://www.linkedin.com/in/mrrinkukumar2004/)
 
 ---
