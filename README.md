@@ -1,4 +1,4 @@
-Certainly! Here’s the revised README file with the necessary changes and improvements:
+Certainly! Here’s the revised README file with the addition of the "Service Health Monitoring" script to the list of projects:
 
 ---
 
@@ -10,7 +10,7 @@ Welcome to this curated list of industry-standard scripting projects! These proj
 
 1. [Disk Storage Monitoring Script](#disk-storage-monitoring-script)
 2. [Backup Script](#backup-script)
-3. [Project 3: Upcoming...](#project-3-upcoming)
+3. [Service Health Monitoring Script](#service-health-monitoring-script)
 4. [Project 4: Upcoming...](#project-4-upcoming)
 5. [Project 5: Upcoming...](#project-5-upcoming)
 6. [Project 6: Upcoming...](#project-6-upcoming)
@@ -71,11 +71,42 @@ Protect your data with this efficient backup script. Automate the backup process
 
 ---
 
-## Project 3: Upcoming...
+## Service Health Monitoring Script
 
-- **Description**: Overview of this tool and its capabilities.
-- **Access**: [GitHub Repository](https://github.com/username/amazing-tool)
+**Description**:
+
+Ensure that critical system services are running smoothly with this simple Bash script. The script checks if a specified service is active, attempts to start it if it is not running, and provides guidance on how to install the service if it is not found.
+
+### Key Features:
+
+- **Service Check**: Determines if the specified service is running.
+- **Automatic Start**: Attempts to start the service if it is not running.
+- **Installation Guidance**: Provides instructions for manually installing the service if it is not present on the system.
+- **Customizable Service**: Easy to set the service you want to monitor.
+
+### Usage:
+
+1. **Specify the Service**: Modify the `SERVICE` variable in the script to the name of the service you want to monitor.
+2. **Run the Script**: Execute with `sudo bash service_health_monitoring.sh`.
+
+### Example
+
+To monitor the `apache2` service, modify the `SERVICE` variable in the script:
+
+```bash
+SERVICE="apache2"
+```
+
+Run the script with:
+
+```bash
+sudo bash service_health_monitoring.sh
+```
+
+- **Access**: [GitHub Repository](https://github.com/MrRinkukumar2004/Script_Projects/tree/main/03.ServiceHealthMonitoring)
 - **Social Media**: [Instagram](https://www.instagram.com/motivational_engineer01/) | [LinkedIn](https://www.linkedin.com/in/mrrinkukumar2004/)
+
+---
 
 ## Project 4: Upcoming...
 
@@ -135,4 +166,4 @@ For any queries or feedback, reach out via:
 
 ---
 
-Feel free to customize the descriptions, links, and social media handles as needed for your specific projects.
+Feel free to adjust the details and links as necessary to fit your project's specific needs.
